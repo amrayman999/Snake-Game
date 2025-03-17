@@ -31,4 +31,4 @@ A classic Snake game built using Python and the `curses` library. Control the sn
 ---
 
 ## 🎥 Demo
-![Snake Game Demo](https://github.com/amrayman999/Snake-Game/Game%20Play.gif)
+![Snake Game Demo](https://github.com/amrayman999/Snake-Game/blob/master/Game%20Play.gif)
